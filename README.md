@@ -9,16 +9,22 @@
 Características
 
 Selección de un año para ver los resultados de los constructores.
+
 Mostrar nombre del constructor, victorias, puntos totales y rango en una tabla.
+
 Actualización dinámica de la tabla según el año seleccionado.
 
 
 Requisitos Previos
+
 Antes de comenzar, asegúrate de cumplir con los siguientes requisitos:
 
 Java Development Kit (JDK) 8 o posterior.
+
 JavaFX SDK.
+
 Una base de datos con las tablas y datos necesarios.
+
 Controlador JDBC para tu base de datos (por ejemplo, MySQL, PostgreSQL).
 
 Conclusión
