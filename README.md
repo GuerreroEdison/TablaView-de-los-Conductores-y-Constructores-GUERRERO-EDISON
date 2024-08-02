@@ -6,7 +6,8 @@
 
 ![WhatsApp Image 2024-07-30 at 12 30 35 (1)](https://github.com/user-attachments/assets/a17e7e25-1d0b-4942-a223-cb20a63ef3ad)
 
-Características
+Características:
+
 
 Selección de un año para ver los resultados de los constructores.
 
@@ -15,7 +16,8 @@ Mostrar nombre del constructor, victorias, puntos totales y rango en una tabla.
 Actualización dinámica de la tabla según el año seleccionado.
 
 
-Requisitos Previos
+Requisitos Previos:
+
 
 Antes de comenzar, asegúrate de cumplir con los siguientes requisitos:
 
